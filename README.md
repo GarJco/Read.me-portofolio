@@ -9,15 +9,15 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Computer Science student from Indonesia, exploring the world of software development.</h3>
+<h3 align="center">Computer Science student in Binus Bandung.</h3>
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I'm a Computer science student at **Bina Nusantara university**.
-- 🌱 I’m currently focusing in Cloud technology and web based development.
-- 📫 You can reach me at Garrethjeco1@gmail.com.
+- I'm a Computer science student at **Bina Nusantara university**.
+- I’m currently focusing in Cloud technology and web based development.
+- You can reach me at Garrethjeco1@gmail.com.
 
 ---
 
