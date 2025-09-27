@@ -3,11 +3,6 @@
   Hi there, I'm Garreth jeconio budi utomo 👋
 </h1>
 
-<p align="center">
-  <a href="https://github.com/USERNAME_ANDA">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJzb29qNmFpNjMyd3Y1ZnZ3MjY2aHB0ZWNsN3FzcnV1MGt0cXRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" alt="Coding GIF" width="600"/>
-  </a>
-</p>
 
 <h3 align="center">Computer Science student in Binus Bandung.</h3>
 
@@ -49,8 +44,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarJco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarJco&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -59,7 +53,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Garreth J" target="_blank">
+  <a href="https://www.linkedin.com/in/Garreth-j" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:[Garrethjeco1@gmail.com]">
