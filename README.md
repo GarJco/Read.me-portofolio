@@ -35,7 +35,7 @@
 
 | Project Name                                   | Description                                                                 | Tech Stack                      | Links                                                                                               |
 | ---------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Fake news detection** | [A project that i made than focused on  Bagging-Based Transformer Ensemble for Real-Time Fake News Classification ]        | `Python`, `HTML`, `CSS`| [🔗 Repo](https://github.com/GarJco/News-Fact-Check) 
+| **Fake news detection** |  project that i made than focused on  Bagging-Based Transformer Ensemble for Real-Time Fake News Classification        | `Python`, `HTML`, `CSS`| [🔗 Repo](https://github.com/GarJco/News-Fact-Check) 
 | **Job Finder Application** | My Software Engineering  group project that helps job seekers find employment opportunities and offers an AI-powered chatbot for assistance ]        | `HTML,CSS,JAVASCRIPT,PHP`  | [🔗 Repo](https://github.com/USERNAME_ANDA/NAMA_REPhttps://github.com/GarJco/Software-Engineering)                                                 |
                                                  |
 
