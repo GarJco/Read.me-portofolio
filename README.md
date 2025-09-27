@@ -11,8 +11,7 @@
 ### 👨🏻‍💻 About Me
 
 - I'm a Computer science student at **Bina Nusantara university**.
-- I’m currently focusing in Cloud technology and web based development.
-- You can reach me at Garrethjeco1@gmail.com.
+- I’m currently focusing on Cloud technology and web based development.
 
 ---
 
